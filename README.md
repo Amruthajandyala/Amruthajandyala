@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring DevOps Engineer currently learning core DevOps concepts including Linux, Git, CI/CD pipelines, Docker, Kubernetes, and AWS. Passionate about automating workflows, improving system reliability, and building scalable cloud solutions. Actively enhancing technical skills through hands-on projects and continuous learning.
+Aspiring Software Engineer with DevOps currently learning core DevOps concepts including Linux, Git, CI/CD pipelines, Docker, Kubernetes, and AWS. Passionate about automating workflows, improving system reliability, and building scalable cloud solutions. Actively enhancing technical skills through hands-on projects and continuous learning.
 
 
 ## 🌐 Socials:
